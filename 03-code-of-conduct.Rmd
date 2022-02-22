@@ -1,4 +1,5 @@
 # Code of Conduct {#code}
+[DK: The SES Diversity & Inculsion committee, which includes strong student involement, has put a lot of effort into developing a code of conduct for the school. All students will be asked to agree to the code. I suggest that do not duplicate that effort. If anyone wants to add to or modify the SES code, then they could/should work with the DIC]
 
 A _Code of Conduct_ is a set of basic ground rules that we ask participants in lab spaces to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our lab culture/philosophy, it also provides a benchmark for self-evaluation and helps better define our identity as a community. 
 
