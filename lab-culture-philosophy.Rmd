@@ -21,6 +21,7 @@ Though we do not expect incoming members to memorize everything, we do expect me
 
 [NPM: Should we create a repository for lab issues/discusion?]
 [lpm: some of us dont use GitHub as much as others. is this the right platform? maybe google doc? or is this sign to get on GitHub more?]
+[DK test]
 
 **Make yourself available:** Be responsive to communication, and make time for things that address longer term goals, even when busy. For example, do not skip on things like attending seminars just because you have a big deadline looming (see note below on planning and organization). Note that being available does not mean that you are available 24/7 - this is not expected. Because as a group we value the role of collaboration and interaction in improving our work, it is expected that you be available in the lab/office during normal business hours for some time during the week (see section on attendance expectations).  
 
